@@ -1,3 +1,5 @@
+// To set up this route move it under app folder
+
 // import { db } from "@vercel/postgres";
 // import { fetchAthletes, fetchResultsByAthleteId } from "./seed-data";
 
